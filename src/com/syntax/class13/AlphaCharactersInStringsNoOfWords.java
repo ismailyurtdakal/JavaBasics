@@ -21,6 +21,12 @@ public class AlphaCharactersInStringsNoOfWords {
 	int words=array.length;
 	System.out.println("Total words in Sring :"+str2+" = "+words);
 
+	
+	System.out.println("----------2nd way------");
+	
+	String[] str1 = str.split(" ");
+	int s=str1.length;
+	System.out.println(s);
 	}
 
 }

@@ -1,6 +1,6 @@
 package com.syntax.class13;
 
-public class Slide2SwapingStringsandIntegersWithoutThirdVariable {
+public class SwapingStringsandIntegersWithoutThirdVariable {
 
 	public static void main(String[] args) {
 		/*
@@ -17,7 +17,9 @@ public class Slide2SwapingStringsandIntegersWithoutThirdVariable {
 		
 		System.out.println("The value of a = "+a);
 		System.out.println("The value of b = "+b);
+
 		
+		//---------------------------------------------//
 		String str1="Day";
 		String str2="Night";
 		
