@@ -18,6 +18,25 @@ public class S1Recap {
 		 * With parameters
 		 * Without parameters
 		 * 
+		 * Parameters vs Arguments
+		 * 
+		 * When we create a method we specify parameters that method accepts
+		 * 
+		 * When we call/execute the method we pass values/arguments
+		 * 
+		 * 23 - argument
+		 * obj.evenOrOdd(23);
+		 * 
+		 * Methods in Java:
+		 * 
+		 * methods that return a value
+		 * methods that does not return any value
+		 * 
+		 * If we want to execute a method:
+		 * 1.We need to create an object of the class to which that method belogs
+		 * 2.Only after that we can call method by passing valid number or 
+		 * sequencen of arguments 
+		 * 
 		 * 
 		 * 
 		 */
