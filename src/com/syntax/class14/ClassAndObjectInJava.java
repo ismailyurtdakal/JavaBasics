@@ -49,6 +49,32 @@ public class ClassAndObjectInJava {
 *
 *Class - is a template
 *Objects - instance/exmaples of the class
+*
+*Once we create an Object of the class/instance of the class 
+*that oject will have access to all varibales and methods from that class
+*
+*We can create as many objects as we want
+*Main Method--> is a special method and it's needed for the program execution
+*
+*During the execution, Java virtual machine(JVM) looks for the main method and 
+*once it finds the code inside the main methid will execute TOP to BOTTOM
+*
+*Class without main method is NOT EXECUTABLE
+*
+*Methods in Java
+*
+*Built
+*UserDefined:method that define by us/Programmers
+*
+*In Java we have datatypes
+*Primitive:8
+*Non Primitive:Objects (String, Car,Dog, Phone...)
+*
+*Methods in Java:
+**with parameters
+*and without 
+*
+*
 */	
 	
 }
