@@ -1,6 +1,6 @@
 package com.syntax.class16;
 
-public class Slide2MethodsRecap {
+public class S2MethodsRecap {
 
 	// create a method that will accept array of inetegers and
 	// return max elements from that array
@@ -27,7 +27,7 @@ public class Slide2MethodsRecap {
 	public static void main(String[] args) {
 	
 		
-		Slide2MethodsRecap obj=new Slide2MethodsRecap();
+		S2MethodsRecap obj=new S2MethodsRecap();
 		
 		int[] arr= {10,20,38,12};
 		System.out.println(obj.getLargestNumber(arr));
