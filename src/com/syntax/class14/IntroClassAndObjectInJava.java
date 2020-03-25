@@ -1,19 +1,26 @@
 package com.syntax.class14;
 
-public class ClassAndObjectInJava {
+public class IntroClassAndObjectInJava {
+//Class and Object in Java
 	
 //OOPs in Java --> Inheritance, Polymorphism, Abstraction, Encapsulation	
 
 /*What is a class in Java?	
 *Class is blueprint/template
 *
-*Car:
-*feature:model,make,color,4 wheels,engine,door
-*actions:drive,accelarate, stop, break, make, naoise
+*
+*Car: Class in which we define features/properties/fields
+*
+*and 
+*
+*actions/behavior of FUTURE OBJECTS; 
+*
+*feature: model,make,color,4 wheels,engine,door
+*actions: drive,accelarate, stop, break, make naoise
 *
 *
 *House:
-*feature:rooms, kitchen, doors, bathroo, garage
+*feature: rooms, kitchen, doors, bathroom, garage
 *
 *car1.make="lombarghini"'
 *car1.model="gallardo";
@@ -29,12 +36,12 @@ public class ClassAndObjectInJava {
 *car2.makeNoise();-->BMW
 *
 *TV
-*features:screen,color, size,brand
+*features: screen, color, size, brand
 *actions:watch movies, play music, display images
 *
 *Dog:
-*features:breed, color, name, age
-*actions/behavior"eat, sleep, run, bark
+*features: breed, color, name, age
+*actions/behavior: eat, sleep, run, bark
 *
 *dog1.breed="Shih tzu";
 *dog1.color="yellow";
@@ -48,7 +55,7 @@ public class ClassAndObjectInJava {
 *actions/beahvior - methods
 *
 *Class - is a template
-*Objects - instance/exmaples of the class
+*Objects - instance/examples of the class
 *
 *Once we create an Object of the class/instance of the class 
 *that oject will have access to all varibales and methods from that class

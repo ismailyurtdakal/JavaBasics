@@ -25,6 +25,11 @@ public class MethodsReturningValue {
 	MethodsReturningValue newObject=new MethodsReturningValue();	
 	int num=newObject.largest(12,13);
 	
+	boolean flag=newObject.isOdd(num);
+	
+
+	
+	
 int largest(int a, int b) {
 	int largest;
 	if(a>b) {

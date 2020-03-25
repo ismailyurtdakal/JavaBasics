@@ -38,6 +38,9 @@ public class S1Recap {
 		 * sequencen of arguments 
 		 * 
 		 * 
+		 * To make a method to return value we have to use return keywaord inside method body
+		 * and 
+		 * 
 		 * 
 		 */
 

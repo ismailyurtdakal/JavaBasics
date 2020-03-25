@@ -10,7 +10,6 @@ public class Dog {
     public static void main(String[] args) {
         
         Dog dog1=new Dog();
-        
         dog1.breed="Afador";
         dog1.color="Black";
         dog1.name="Lucy";
@@ -22,7 +21,6 @@ public class Dog {
         
         
         Dog dog2=new Dog();
-        
         dog2.breed="Akbash";
         dog2.color="White";
         dog2.name="Boss";
