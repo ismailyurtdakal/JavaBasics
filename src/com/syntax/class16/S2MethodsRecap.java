@@ -35,9 +35,9 @@ public class S2MethodsRecap {
 		String myString="It is a beatuiful world";
 		String[] words=obj.getWordsFromString(myString);
 		
-		for(String word:words) {
+		for(String i:words) {
 			
-			System.out.println(word);
+			System.out.print(i+" ");
 		}
 		
 		

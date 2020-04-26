@@ -60,6 +60,10 @@ public class IntroClassAndObjectInJava {
 *Once we create an Object of the class/instance of the class 
 *that oject will have access to all varibales and methods from that class
 *
+*When we create an object of the class/instance of the class that object 
+*will have access to all variables and methods from that class
+*
+*
 *We can create as many objects as we want
 *Main Method--> is a special method and it's needed for the program execution
 *

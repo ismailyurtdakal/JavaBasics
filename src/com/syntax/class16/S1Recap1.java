@@ -14,17 +14,16 @@ public class S1Recap1 {
 * 
 * Parameters vs arguements
 * 
-**create amethod that will return sum of the numbers
+**create a method that will return sum of 2 numbers
 * 
 * to create a mehod MUST PART; return type, give name, no parameters/parameters
 * 
-* public class Recap{====> class curcly brace
+* public class Recap{====> class curly brace
 * int sum(int a, int b){ ----> parameters
 * 
 * return a+b;
 *  }
-*  
-*  
+*   
 *  void sum1(int a, int b){
 *  
 *  SOPln(a+b);
